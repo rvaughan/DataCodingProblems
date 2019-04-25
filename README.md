@@ -10,4 +10,4 @@ mine only and may or may not even be correct.
 
 ## Questions
 
-  * [Problem 1](./q_001/README.md)
+  * [Problem 1](./p_001/README.md)
