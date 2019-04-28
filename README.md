@@ -13,3 +13,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 1](./p_001/README.md)
   * [Problem 2](./p_002/README.md)
   * [Problem 3](./p_003/README.md)
+  * [Problem 4](./p_004/README.md)
