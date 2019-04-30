@@ -15,3 +15,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 3](./p_003/README.md)
   * [Problem 4](./p_004/README.md)
   * [Problem 5](./p_005/README.md)
+  * [Problem 6](./p_006/README.md)
