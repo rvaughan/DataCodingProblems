@@ -19,3 +19,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 7](./p_007/README.md)
   * [Problem 8](./p_008/README.md)
   * [Problem 9](./p_009/README.md)
+  * [Problem 10](./p_010/README.md)
