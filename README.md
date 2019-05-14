@@ -29,3 +29,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 17](./p_017/README.md)
   * [Problem 18](./p_018/README.md)
   * [Problem 19](./p_019/README.md)
+  * [Problem 20](./p_020/README.md)
