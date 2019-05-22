@@ -36,3 +36,5 @@ repository are mine only and may or may not even be correct.
   * [Problem 24](./p_024/README.md)
   * [Problem 25](./p_025/README.md)
   * [Problem 26](./p_026/README.md)
+  * [Problem 27](./p_027/README.md)
+  * [Problem 28](./p_028/README.md)
