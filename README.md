@@ -43,3 +43,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 31](./p_031/README.md)
   * [Problem 32](./p_032/README.md)
   * [Problem 33](./p_033/README.md)
+  * [Problem 34](./p_034/README.md)
