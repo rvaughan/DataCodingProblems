@@ -45,3 +45,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 33](./p_033/README.md)
   * [Problem 34](./p_034/README.md)
   * [Problem 35](./p_035/README.md)
+  * [Problem 36](./p_036/README.md)
