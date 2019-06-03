@@ -49,3 +49,4 @@ repository are mine only and may or may not even be correct.
   * [Problem 37](./p_037/README.md)
   * [Problem 38](./p_038/README.md)
   * [Problem 39](./p_039/README.md)
+  * [Problem 40](./p_040/README.md)
